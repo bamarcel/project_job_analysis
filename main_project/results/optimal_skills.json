@@ -1,0 +1,806 @@
+[
+ {
+  "skill_id": 0,
+  "skills": "sql",
+  "number_of_offers": "469",
+  "average_salary": "101068.65"
+ },
+ {
+  "skill_id": 1,
+  "skills": "python",
+  "number_of_offers": "276",
+  "average_salary": "104309.04"
+ },
+ {
+  "skill_id": 182,
+  "skills": "tableau",
+  "number_of_offers": "273",
+  "average_salary": "102818.44"
+ },
+ {
+  "skill_id": 181,
+  "skills": "excel",
+  "number_of_offers": "269",
+  "average_salary": "90034.09"
+ },
+ {
+  "skill_id": 5,
+  "skills": "r",
+  "number_of_offers": "164",
+  "average_salary": "102050.97"
+ },
+ {
+  "skill_id": 183,
+  "skills": "power bi",
+  "number_of_offers": "127",
+  "average_salary": "97449.31"
+ },
+ {
+  "skill_id": 185,
+  "skills": "looker",
+  "number_of_offers": "78",
+  "average_salary": "110997.04"
+ },
+ {
+  "skill_id": 186,
+  "skills": "sas",
+  "number_of_offers": "70",
+  "average_salary": "99524.12"
+ },
+ {
+  "skill_id": 7,
+  "skills": "sas",
+  "number_of_offers": "70",
+  "average_salary": "99524.12"
+ },
+ {
+  "skill_id": 196,
+  "skills": "powerpoint",
+  "number_of_offers": "62",
+  "average_salary": "87275.89"
+ },
+ {
+  "skill_id": 80,
+  "skills": "snowflake",
+  "number_of_offers": "55",
+  "average_salary": "115032.35"
+ },
+ {
+  "skill_id": 188,
+  "skills": "word",
+  "number_of_offers": "55",
+  "average_salary": "86472.52"
+ },
+ {
+  "skill_id": 61,
+  "skills": "sql server",
+  "number_of_offers": "41",
+  "average_salary": "102768.33"
+ },
+ {
+  "skill_id": 215,
+  "skills": "flow",
+  "number_of_offers": "39",
+  "average_salary": "102594.72"
+ },
+ {
+  "skill_id": 79,
+  "skills": "oracle",
+  "number_of_offers": "37",
+  "average_salary": "112966.13"
+ },
+ {
+  "skill_id": 8,
+  "skills": "go",
+  "number_of_offers": "36",
+  "average_salary": "115843.28"
+ },
+ {
+  "skill_id": 74,
+  "skills": "azure",
+  "number_of_offers": "36",
+  "average_salary": "106568.06"
+ },
+ {
+  "skill_id": 76,
+  "skills": "aws",
+  "number_of_offers": "33",
+  "average_salary": "110729.52"
+ },
+ {
+  "skill_id": 192,
+  "skills": "sheets",
+  "number_of_offers": "33",
+  "average_salary": "87808.77"
+ },
+ {
+  "skill_id": 199,
+  "skills": "spss",
+  "number_of_offers": "30",
+  "average_salary": "97742.16"
+ },
+ {
+  "skill_id": 233,
+  "skills": "jira",
+  "number_of_offers": "28",
+  "average_salary": "107987.79"
+ },
+ {
+  "skill_id": 22,
+  "skills": "vba",
+  "number_of_offers": "24",
+  "average_salary": "95159.17"
+ },
+ {
+  "skill_id": 9,
+  "skills": "javascript",
+  "number_of_offers": "22",
+  "average_salary": "103897.27"
+ },
+ {
+  "skill_id": 201,
+  "skills": "alteryx",
+  "number_of_offers": "22",
+  "average_salary": "93874.34"
+ },
+ {
+  "skill_id": 4,
+  "skills": "java",
+  "number_of_offers": "21",
+  "average_salary": "113128.55"
+ },
+ {
+  "skill_id": 77,
+  "skills": "bigquery",
+  "number_of_offers": "20",
+  "average_salary": "112540.00"
+ },
+ {
+  "skill_id": 78,
+  "skills": "redshift",
+  "number_of_offers": "20",
+  "average_salary": "103179.15"
+ },
+ {
+  "skill_id": 97,
+  "skills": "hadoop",
+  "number_of_offers": "19",
+  "average_salary": "123328.24"
+ },
+ {
+  "skill_id": 195,
+  "skills": "sharepoint",
+  "number_of_offers": "18",
+  "average_salary": "80800.25"
+ },
+ {
+  "skill_id": 187,
+  "skills": "qlik",
+  "number_of_offers": "17",
+  "average_salary": "109217.68"
+ },
+ {
+  "skill_id": 26,
+  "skills": "c",
+  "number_of_offers": "16",
+  "average_salary": "114089.97"
+ },
+ {
+  "skill_id": 92,
+  "skills": "spark",
+  "number_of_offers": "15",
+  "average_salary": "105400.00"
+ },
+ {
+  "skill_id": 198,
+  "skills": "outlook",
+  "number_of_offers": "15",
+  "average_salary": "91427.10"
+ },
+ {
+  "skill_id": 194,
+  "skills": "ssis",
+  "number_of_offers": "14",
+  "average_salary": "114728.57"
+ },
+ {
+  "skill_id": 13,
+  "skills": "c++",
+  "number_of_offers": "14",
+  "average_salary": "107038.61"
+ },
+ {
+  "skill_id": 197,
+  "skills": "ssrs",
+  "number_of_offers": "14",
+  "average_salary": "102885.71"
+ },
+ {
+  "skill_id": 75,
+  "skills": "databricks",
+  "number_of_offers": "12",
+  "average_salary": "122313.75"
+ },
+ {
+  "skill_id": 234,
+  "skills": "confluence",
+  "number_of_offers": "12",
+  "average_salary": "112609.08"
+ },
+ {
+  "skill_id": 184,
+  "skills": "dax",
+  "number_of_offers": "11",
+  "average_salary": "107727.27"
+ },
+ {
+  "skill_id": 93,
+  "skills": "pandas",
+  "number_of_offers": "10",
+  "average_salary": "132936.25"
+ },
+ {
+  "skill_id": 2,
+  "skills": "nosql",
+  "number_of_offers": "10",
+  "average_salary": "122037.85"
+ },
+ {
+  "skill_id": 204,
+  "skills": "visio",
+  "number_of_offers": "10",
+  "average_salary": "93841.55"
+ },
+ {
+  "skill_id": 14,
+  "skills": "c#",
+  "number_of_offers": "10",
+  "average_salary": "86540.05"
+ },
+ {
+  "skill_id": 10,
+  "skills": "html",
+  "number_of_offers": "9",
+  "average_salary": "114143.33"
+ },
+ {
+  "skill_id": 189,
+  "skills": "sap",
+  "number_of_offers": "9",
+  "average_salary": "102817.67"
+ },
+ {
+  "skill_id": 202,
+  "skills": "ms access",
+  "number_of_offers": "9",
+  "average_salary": "101457.00"
+ },
+ {
+  "skill_id": 16,
+  "skills": "t-sql",
+  "number_of_offers": "9",
+  "average_salary": "98920.56"
+ },
+ {
+  "skill_id": 56,
+  "skills": "mysql",
+  "number_of_offers": "9",
+  "average_salary": "95890.56"
+ },
+ {
+  "skill_id": 96,
+  "skills": "airflow",
+  "number_of_offers": "8",
+  "average_salary": "124039.38"
+ },
+ {
+  "skill_id": 216,
+  "skills": "github",
+  "number_of_offers": "8",
+  "average_salary": "104112.50"
+ },
+ {
+  "skill_id": 170,
+  "skills": "windows",
+  "number_of_offers": "7",
+  "average_salary": "91741.34"
+ },
+ {
+  "skill_id": 141,
+  "skills": "express",
+  "number_of_offers": "7",
+  "average_salary": "87357.14"
+ },
+ {
+  "skill_id": 94,
+  "skills": "numpy",
+  "number_of_offers": "6",
+  "average_salary": "137393.75"
+ },
+ {
+  "skill_id": 3,
+  "skills": "scala",
+  "number_of_offers": "6",
+  "average_salary": "133835.83"
+ },
+ {
+  "skill_id": 219,
+  "skills": "atlassian",
+  "number_of_offers": "6",
+  "average_salary": "125134.83"
+ },
+ {
+  "skill_id": 210,
+  "skills": "git",
+  "number_of_offers": "6",
+  "average_salary": "111133.33"
+ },
+ {
+  "skill_id": 15,
+  "skills": "matlab",
+  "number_of_offers": "6",
+  "average_salary": "99333.33"
+ },
+ {
+  "skill_id": 12,
+  "skills": "bash",
+  "number_of_offers": "6",
+  "average_salary": "96558.33"
+ },
+ {
+  "skill_id": 190,
+  "skills": "spreadsheet",
+  "number_of_offers": "6",
+  "average_salary": "93632.65"
+ },
+ {
+  "skill_id": 248,
+  "skills": "zoom",
+  "number_of_offers": "5",
+  "average_salary": "129348.00"
+ },
+ {
+  "skill_id": 106,
+  "skills": "scikit-learn",
+  "number_of_offers": "5",
+  "average_salary": "122072.50"
+ },
+ {
+  "skill_id": 57,
+  "skills": "postgresql",
+  "number_of_offers": "5",
+  "average_salary": "113603.00"
+ },
+ {
+  "skill_id": 23,
+  "skills": "crystal",
+  "number_of_offers": "5",
+  "average_salary": "106430.00"
+ },
+ {
+  "skill_id": 18,
+  "skills": "mongodb",
+  "number_of_offers": "5",
+  "average_salary": "94611.80"
+ },
+ {
+  "skill_id": 62,
+  "skills": "mongodb",
+  "number_of_offers": "5",
+  "average_salary": "94611.80"
+ },
+ {
+  "skill_id": 235,
+  "skills": "planner",
+  "number_of_offers": "5",
+  "average_salary": "76800.00"
+ },
+ {
+  "skill_id": 108,
+  "skills": "matplotlib",
+  "number_of_offers": "5",
+  "average_salary": "76301.40"
+ },
+ {
+  "skill_id": 236,
+  "skills": "smartsheet",
+  "number_of_offers": "5",
+  "average_salary": "63000.00"
+ },
+ {
+  "skill_id": 102,
+  "skills": "jupyter",
+  "number_of_offers": "4",
+  "average_salary": "143375.00"
+ },
+ {
+  "skill_id": 191,
+  "skills": "microstrategy",
+  "number_of_offers": "4",
+  "average_salary": "130184.63"
+ },
+ {
+  "skill_id": 67,
+  "skills": "db2",
+  "number_of_offers": "4",
+  "average_salary": "114072.13"
+ },
+ {
+  "skill_id": 81,
+  "skills": "gcp",
+  "number_of_offers": "4",
+  "average_salary": "108500.00"
+ },
+ {
+  "skill_id": 247,
+  "skills": "slack",
+  "number_of_offers": "4",
+  "average_salary": "99650.00"
+ },
+ {
+  "skill_id": 20,
+  "skills": "powershell",
+  "number_of_offers": "4",
+  "average_salary": "95275.00"
+ },
+ {
+  "skill_id": 226,
+  "skills": "terminal",
+  "number_of_offers": "4",
+  "average_salary": "80625.00"
+ },
+ {
+  "skill_id": 112,
+  "skills": "plotly",
+  "number_of_offers": "4",
+  "average_salary": "78750.00"
+ },
+ {
+  "skill_id": 30,
+  "skills": "ruby",
+  "number_of_offers": "4",
+  "average_salary": "66139.75"
+ },
+ {
+  "skill_id": 144,
+  "skills": "ruby",
+  "number_of_offers": "4",
+  "average_salary": "66139.75"
+ },
+ {
+  "skill_id": 220,
+  "skills": "gitlab",
+  "number_of_offers": "3",
+  "average_salary": "154500.00"
+ },
+ {
+  "skill_id": 35,
+  "skills": "swift",
+  "number_of_offers": "3",
+  "average_salary": "147833.33"
+ },
+ {
+  "skill_id": 211,
+  "skills": "jenkins",
+  "number_of_offers": "3",
+  "average_salary": "125436.33"
+ },
+ {
+  "skill_id": 213,
+  "skills": "kubernetes",
+  "number_of_offers": "3",
+  "average_salary": "121333.33"
+ },
+ {
+  "skill_id": 6,
+  "skills": "shell",
+  "number_of_offers": "3",
+  "average_salary": "108200.00"
+ },
+ {
+  "skill_id": 249,
+  "skills": "microsoft teams",
+  "number_of_offers": "3",
+  "average_salary": "97971.83"
+ },
+ {
+  "skill_id": 200,
+  "skills": "cognos",
+  "number_of_offers": "3",
+  "average_salary": "97685.00"
+ },
+ {
+  "skill_id": 70,
+  "skills": "sqlite",
+  "number_of_offers": "3",
+  "average_salary": "89166.67"
+ },
+ {
+  "skill_id": 137,
+  "skills": "phoenix",
+  "number_of_offers": "3",
+  "average_salary": "87663.33"
+ },
+ {
+  "skill_id": 120,
+  "skills": "seaborn",
+  "number_of_offers": "3",
+  "average_salary": "77500.00"
+ },
+ {
+  "skill_id": 21,
+  "skills": "visual basic",
+  "number_of_offers": "3",
+  "average_salary": "73383.33"
+ },
+ {
+  "skill_id": 218,
+  "skills": "bitbucket",
+  "number_of_offers": "2",
+  "average_salary": "189154.50"
+ },
+ {
+  "skill_id": 27,
+  "skills": "golang",
+  "number_of_offers": "2",
+  "average_salary": "161750.00"
+ },
+ {
+  "skill_id": 95,
+  "skills": "pyspark",
+  "number_of_offers": "2",
+  "average_salary": "150257.50"
+ },
+ {
+  "skill_id": 142,
+  "skills": "flask",
+  "number_of_offers": "2",
+  "average_salary": "142000.00"
+ },
+ {
+  "skill_id": 39,
+  "skills": "rust",
+  "number_of_offers": "2",
+  "average_salary": "138000.00"
+ },
+ {
+  "skill_id": 169,
+  "skills": "linux",
+  "number_of_offers": "2",
+  "average_salary": "136507.50"
+ },
+ {
+  "skill_id": 206,
+  "skills": "datarobot",
+  "number_of_offers": "2",
+  "average_salary": "128992.75"
+ },
+ {
+  "skill_id": 110,
+  "skills": "react",
+  "number_of_offers": "2",
+  "average_salary": "123750.00"
+ },
+ {
+  "skill_id": 225,
+  "skills": "unity",
+  "number_of_offers": "2",
+  "average_salary": "120000.00"
+ },
+ {
+  "skill_id": 168,
+  "skills": "unix",
+  "number_of_offers": "2",
+  "average_salary": "110000.00"
+ },
+ {
+  "skill_id": 177,
+  "skills": "arch",
+  "number_of_offers": "2",
+  "average_salary": "82750.00"
+ },
+ {
+  "skill_id": 104,
+  "skills": "spring",
+  "number_of_offers": "2",
+  "average_salary": "82000.00"
+ },
+ {
+  "skill_id": 255,
+  "skills": "webex",
+  "number_of_offers": "2",
+  "average_salary": "81250.00"
+ },
+ {
+  "skill_id": 29,
+  "skills": "julia",
+  "number_of_offers": "2",
+  "average_salary": "71148.00"
+ },
+ {
+  "skill_id": 153,
+  "skills": "ruby on rails",
+  "number_of_offers": "2",
+  "average_salary": "58529.50"
+ },
+ {
+  "skill_id": 143,
+  "skills": "fastapi",
+  "number_of_offers": "1",
+  "average_salary": "185000.00"
+ },
+ {
+  "skill_id": 11,
+  "skills": "css",
+  "number_of_offers": "1",
+  "average_salary": "185000.00"
+ },
+ {
+  "skill_id": 100,
+  "skills": "keras",
+  "number_of_offers": "1",
+  "average_salary": "185000.00"
+ },
+ {
+  "skill_id": 136,
+  "skills": "angular",
+  "number_of_offers": "1",
+  "average_salary": "185000.00"
+ },
+ {
+  "skill_id": 85,
+  "skills": "watson",
+  "number_of_offers": "1",
+  "average_salary": "160515.00"
+ },
+ {
+  "skill_id": 65,
+  "skills": "couchbase",
+  "number_of_offers": "1",
+  "average_salary": "160515.00"
+ },
+ {
+  "skill_id": 59,
+  "skills": "elasticsearch",
+  "number_of_offers": "1",
+  "average_salary": "145000.00"
+ },
+ {
+  "skill_id": 98,
+  "skills": "kafka",
+  "number_of_offers": "1",
+  "average_salary": "140000.00"
+ },
+ {
+  "skill_id": 63,
+  "skills": "cassandra",
+  "number_of_offers": "1",
+  "average_salary": "140000.00"
+ },
+ {
+  "skill_id": 99,
+  "skills": "tensorflow",
+  "number_of_offers": "1",
+  "average_salary": "140000.00"
+ },
+ {
+  "skill_id": 101,
+  "skills": "pytorch",
+  "number_of_offers": "1",
+  "average_salary": "140000.00"
+ },
+ {
+  "skill_id": 250,
+  "skills": "twilio",
+  "number_of_offers": "1",
+  "average_salary": "127000.00"
+ },
+ {
+  "skill_id": 237,
+  "skills": "asana",
+  "number_of_offers": "1",
+  "average_salary": "114500.00"
+ },
+ {
+  "skill_id": 84,
+  "skills": "ibm cloud",
+  "number_of_offers": "1",
+  "average_salary": "111500.00"
+ },
+ {
+  "skill_id": 140,
+  "skills": "vue.js",
+  "number_of_offers": "1",
+  "average_salary": "99000.00"
+ },
+ {
+  "skill_id": 55,
+  "skills": "redis",
+  "number_of_offers": "1",
+  "average_salary": "99000.00"
+ },
+ {
+  "skill_id": 223,
+  "skills": "ansible",
+  "number_of_offers": "1",
+  "average_salary": "99000.00"
+ },
+ {
+  "skill_id": 214,
+  "skills": "docker",
+  "number_of_offers": "1",
+  "average_salary": "99000.00"
+ },
+ {
+  "skill_id": 212,
+  "skills": "terraform",
+  "number_of_offers": "1",
+  "average_salary": "99000.00"
+ },
+ {
+  "skill_id": 60,
+  "skills": "mariadb",
+  "number_of_offers": "1",
+  "average_salary": "95000.00"
+ },
+ {
+  "skill_id": 25,
+  "skills": "php",
+  "number_of_offers": "1",
+  "average_salary": "95000.00"
+ },
+ {
+  "skill_id": 242,
+  "skills": "clickup",
+  "number_of_offers": "1",
+  "average_salary": "90000.00"
+ },
+ {
+  "skill_id": 42,
+  "skills": "vb.net",
+  "number_of_offers": "1",
+  "average_salary": "90000.00"
+ },
+ {
+  "skill_id": 221,
+  "skills": "chef",
+  "number_of_offers": "1",
+  "average_salary": "85000.00"
+ },
+ {
+  "skill_id": 145,
+  "skills": "node.js",
+  "number_of_offers": "1",
+  "average_salary": "83500.00"
+ },
+ {
+  "skill_id": 115,
+  "skills": "ggplot2",
+  "number_of_offers": "1",
+  "average_salary": "75000.00"
+ },
+ {
+  "skill_id": 51,
+  "skills": "erlang",
+  "number_of_offers": "1",
+  "average_salary": "72500.00"
+ },
+ {
+  "skill_id": 47,
+  "skills": "sass",
+  "number_of_offers": "1",
+  "average_salary": "67500.00"
+ },
+ {
+  "skill_id": 88,
+  "skills": "colocation",
+  "number_of_offers": "1",
+  "average_salary": "67500.00"
+ },
+ {
+  "skill_id": 253,
+  "skills": "wire",
+  "number_of_offers": "1",
+  "average_salary": "42500.00"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "job_id": 99305,
+  "job_title": "Data Analyst, Marketing",
+  "company_name": "Pinterest Job Advertisements",
+  "skills_needed": "hadoop, python, r, sql, tableau",
+  "salary_year_avg": "232423.0"
+ },
+ {
+  "job_id": 1021647,
+  "job_title": "Data Analyst (Hybrid/Remote)",
+  "company_name": "Uclahealthcareers",
+  "skills_needed": "crystal, flow, oracle, sql, tableau",
+  "salary_year_avg": "217000.0"
+ },
+ {
+  "job_id": 168310,
+  "job_title": "Principal Data Analyst (Remote)",
+  "company_name": "SmartAsset",
+  "skills_needed": "excel, gitlab, go, numpy, pandas, python, snowflake, sql, tableau",
+  "salary_year_avg": "205000.0"
+ },
+ {
+  "job_id": 731368,
+  "job_title": "Director, Data Analyst - HYBRID",
+  "company_name": "Inclusively",
+  "skills_needed": "atlassian, aws, azure, bitbucket, confluence, jenkins, jira, oracle, power bi, python, sap, snowflake, sql, tableau",
+  "salary_year_avg": "189309.0"
+ },
+ {
+  "job_id": 310660,
+  "job_title": "Principal Data Analyst, AV Performance Analysis",
+  "company_name": "Motional",
+  "skills_needed": "atlassian, bitbucket, confluence, git, jira, python, r, sql",
+  "salary_year_avg": "189000.0"
+ },
+ {
+  "job_id": 1749593,
+  "job_title": "Principal Data Analyst",
+  "company_name": "SmartAsset",
+  "skills_needed": "excel, gitlab, go, numpy, pandas, python, snowflake, sql, tableau",
+  "salary_year_avg": "186000.0"
+ },
+ {
+  "job_id": 1638595,
+  "job_title": "Senior Data Analyst",
+  "company_name": "Patterned Learning AI",
+  "skills_needed": "angular, aws, css, fastapi, flask, html, keras, python, sql, windows",
+  "salary_year_avg": "185000.0"
+ },
+ {
+  "job_id": 387860,
+  "job_title": "ERM Data Analyst",
+  "company_name": "Get It Recruit - Information Technology",
+  "skills_needed": "python, r, sql",
+  "salary_year_avg": "184000.0"
+ },
+ {
+  "job_id": 813346,
+  "job_title": "Senior Data Analyst, GTM (South Bay, CA or Remote)",
+  "company_name": "Zoom Video Communications",
+  "skills_needed": "jira, python, r, sql, tableau, zoom",
+  "salary_year_avg": "181000.0"
+ }
+]
